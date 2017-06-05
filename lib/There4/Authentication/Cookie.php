@@ -1,6 +1,6 @@
 <?php
 //
-// There4 Authentication
+// There4 Authentication test
 // =============================================================================
 //
 // This is a sample class, used in the SlimPHP Unit Testing example
